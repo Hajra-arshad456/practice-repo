@@ -1,2 +1,3 @@
 This is my practice repo
 I am learning git and github
+I am practicing commands for git and github
